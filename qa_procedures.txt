@@ -1,0 +1,7 @@
+Below are procedures for doing quality assurance checks on an interactive website. It's written by a team of quality checkers without professional experience. We're web users who know how to fiddle around with something until it breaks!
+
+1) Find out if there is a tool that's being used to manage issues.
+  a) Are they being submitted through github? If so, which repository?
+  b) Are they being put into Trello, or some other tracking program? Which one? Ask the team leader for access.
+  c) Should you e-mail them to someone directly? Who?
+  
