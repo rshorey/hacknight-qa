@@ -5,3 +5,17 @@ Below are procedures for doing quality assurance checks on an interactive websit
   b) Are they being put into Trello, or some other tracking program? Which one? Ask the team leader for access.
   c) Should you e-mail them to someone directly? Who?
   
+2) Get user stories from the developer or project manager. Who is supposed to use this site? What should they be able to do?
+[put some examples here]
+
+3) Try to follow the user stories by finding the information the user would need or filling out forms to provide or request information. If you find issues like the following, report them.
+[put some examples here]
+
+4) Once you've finished using the site in a typical way, try to do some unexpected things.
+  a) Skip some fields in forms
+  [more examples]
+
+5) When you find a problem, include the following in a report:
+  [examples of things that would be helpful to include in the issue report]
+  
+Anything else important that was missed above?
