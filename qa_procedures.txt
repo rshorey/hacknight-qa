@@ -20,5 +20,22 @@ Below are procedures for doing quality assurance checks on an interactive websit
   
 Anything else important that was missed above?
 
+6)Plan to categorize your findings. Categorization of findings help to organize testing and QA. It can be labelled below as:
+  a) Security concerns
+  b) Cosmetic concerns (otherwise known as bells and whistles)
+  c)General outlook of the application:
+            i)Is the application intuitive or not?
+            ii) Navigation process
+  d) Recommendations
+
+7)Write down or use a word processor to store your observations while testing. Infact keep the word processor open simultaneaoulsy as you are testing.
+
+8)Get as much information as possible from those experienced with testing & QA, which may be useful while testing.
+
+9) Familiarize yourself with the requirements/specification document to ensure that the application complies with it- even when no errors are present.
+
+10) Anything that strikes you as odd or maybe different, you may want to note it or point that out to the developers just incase, it wasn't their intention for such to happen.
+
 
 ps Neat trick! If you need to test something with several different e-mail addresses, gmail will let you use a plus sign to change your e-mail address. So if your email address is example@gmail.com, you can try logging in as example+awesome@gmail.com. It'll still go to you! Gmail ignores everything between the + and the @.
+
