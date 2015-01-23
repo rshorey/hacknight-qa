@@ -19,3 +19,6 @@ Below are procedures for doing quality assurance checks on an interactive websit
   [examples of things that would be helpful to include in the issue report]
   
 Anything else important that was missed above?
+
+
+ps Neat trick! If you need to test something with several different e-mail addresses, gmail will let you use a plus sign to change your e-mail address. So if your email address is example@gmail.com, you can try logging in as example+awesome@gmail.com. It'll still go to you! Gmail ignores everything between the + and the @.
